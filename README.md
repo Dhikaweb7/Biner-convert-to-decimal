@@ -6,6 +6,7 @@ Convert biner number to decimal number with Python🐍
 binary to decimal conversion program with ``Python``, I made this for a computer system lesson in the number system section in my school <a href="https://dhikaweb7.github.io">SMK RADEN PAKU</a>
 
 > Running in terminal (for Linux and Mac) or cmd (for Windows) 
+
 > Indonesian language 🇮🇩
 
 Requirement
@@ -55,7 +56,7 @@ pip install colorama
 
 Cloning repo 
 
-```sql
+```url
 
 git clone https://github.com/Dhikaweb7/Biner-convert-to-decimal
 
