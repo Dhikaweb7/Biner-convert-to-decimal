@@ -57,10 +57,11 @@ Cloning repo
 
 ```sql
 
-git clone 
+git clone https://github.com/Dhikaweb7/Biner-convert-to-decimal
 
 ```
 
+<hr>
 
 
 # Number of System
