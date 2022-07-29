@@ -9,6 +9,10 @@ binary to decimal conversion program with ``Python``, I made this for a computer
 
 > Indonesian language 🇮🇩
 
+# Preview
+
+![Screenshot_20220730-063742](https://user-images.githubusercontent.com/107765982/181860789-5a1ac69c-6e09-4f3c-b9c9-018ed4d74f2b.png)
+
 Requirement
 
  - Python3
