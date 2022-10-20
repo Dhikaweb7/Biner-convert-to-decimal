@@ -73,8 +73,8 @@ git clone https://github.com/Dhikaweb7/Biner-convert-to-decimal
 
 ``BINARY``
 
-``DECIMAL``
+``DECIMAL`` 
 
-``HEXADECIMAL``
+> ``HEXADECIMAL`` 
 
-``OKTAL``
+> ``OKTAL``
